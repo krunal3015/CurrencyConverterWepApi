@@ -1,0 +1,10 @@
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\Zed.EntityFramework.dll.config
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\Zed.EntityFramework.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\Zed.EntityFramework.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\EntityFramework.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\EntityFramework.SqlServer.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\EntityFramework.xml
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\bin\Release\EntityFramework.SqlServer.xml
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\obj\Release\Zed.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\obj\Release\Zed.EntityFramework.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.EntityFramework\obj\Release\Zed.EntityFramework.pdb

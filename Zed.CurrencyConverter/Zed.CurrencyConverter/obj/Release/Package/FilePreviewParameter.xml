@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="krunal-currencyconverter" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Krunal\\Test\ Projects\\Zed\.CurrencyConverter\\Zed\.CurrencyConverter\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Krunal\\Test\ Projects\\Zed\.CurrencyConverter\\Zed\.CurrencyConverter\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="CurrencyConverterEntities-Web.config Connection String" description="" value="metadata=res://*/CurrencyConverter.csdl|res://*/CurrencyConverter.ssdl|res://*/CurrencyConverter.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=zebit.database.windows.net;Initial Catalog=CurrencyConverter;Persist Security Info=True;User ID=krunal;Password=Daddy@16;MultipleActiveResultSets=True;Application Name=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Krunal\\Test\ Projects\\Zed\.CurrencyConverter\\Zed\.CurrencyConverter\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CurrencyConverterEntities']/@connectionString" />
+  </parameter>
+</parameters>

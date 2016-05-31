@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CurrencyConverterModelStoreContainer" CdmEntityContainer="CurrencyConverterEntities">
+    <EntitySetMapping Name="CurrencyRates">
+      <EntityTypeMapping TypeName="CurrencyConverterModel.CurrencyRate">
+        <MappingFragment StoreEntitySet="CurrencyRates">
+          <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+          <ScalarProperty Name="CurrencyFrom" ColumnName="CurrencyFrom" />
+          <ScalarProperty Name="CurrencyTo" ColumnName="CurrencyTo" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="RateUpdateTime" ColumnName="RateUpdateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

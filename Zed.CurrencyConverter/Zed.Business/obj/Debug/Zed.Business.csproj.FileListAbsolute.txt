@@ -1,0 +1,7 @@
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\bin\Debug\Zed.Business.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\bin\Debug\Zed.Business.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\bin\Debug\Zed.Core.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\bin\Debug\Zed.Core.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\obj\Debug\Zed.Business.csprojResolveAssemblyReference.cache
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\obj\Debug\Zed.Business.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.Business\obj\Debug\Zed.Business.pdb

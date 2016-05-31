@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zed.CurrencyConverter", "Zed.CurrencyConverter\Zed.CurrencyConverter.csproj", "{ED623395-96F8-41AD-B5AC-651F76542859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zed.Business", "Zed.Business\Zed.Business.csproj", "{CF1FE829-620B-483C-90C1-7954185BEE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zed.Core", "Zed.Core\Zed.Core.csproj", "{4B66AAF0-C4F6-4F6C-9787-0B7F373030DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zed.DataAccessLayer", "Zed.DataAccessLayer\Zed.DataAccessLayer.csproj", "{4B8C5DEA-9851-40A1-84D6-0B6BAC2E90DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zed.EntityFramework", "Zed.EntityFramework\Zed.EntityFramework.csproj", "{2623C489-0738-41A0-905A-BD520F9DBC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED623395-96F8-41AD-B5AC-651F76542859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED623395-96F8-41AD-B5AC-651F76542859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED623395-96F8-41AD-B5AC-651F76542859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED623395-96F8-41AD-B5AC-651F76542859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1FE829-620B-483C-90C1-7954185BEE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1FE829-620B-483C-90C1-7954185BEE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1FE829-620B-483C-90C1-7954185BEE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1FE829-620B-483C-90C1-7954185BEE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B66AAF0-C4F6-4F6C-9787-0B7F373030DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B66AAF0-C4F6-4F6C-9787-0B7F373030DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B66AAF0-C4F6-4F6C-9787-0B7F373030DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B66AAF0-C4F6-4F6C-9787-0B7F373030DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8C5DEA-9851-40A1-84D6-0B6BAC2E90DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8C5DEA-9851-40A1-84D6-0B6BAC2E90DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8C5DEA-9851-40A1-84D6-0B6BAC2E90DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8C5DEA-9851-40A1-84D6-0B6BAC2E90DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2623C489-0738-41A0-905A-BD520F9DBC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2623C489-0738-41A0-905A-BD520F9DBC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2623C489-0738-41A0-905A-BD520F9DBC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2623C489-0738-41A0-905A-BD520F9DBC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

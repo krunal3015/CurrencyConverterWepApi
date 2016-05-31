@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CurrencyConverterModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CurrencyRate">
+    <Key>
+      <PropertyRef Name="CurrencyID" />
+    </Key>
+    <Property Name="CurrencyID" Type="Int32" Nullable="false" />
+    <Property Name="CurrencyFrom" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="CurrencyTo" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="Amount" Type="Int32" />
+    <Property Name="Rate" Type="Decimal" Precision="36" Scale="2" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="RateUpdateTime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="CurrencyConverterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CurrencyRates" EntityType="Self.CurrencyRate" />
+  </EntityContainer>
+</Schema>

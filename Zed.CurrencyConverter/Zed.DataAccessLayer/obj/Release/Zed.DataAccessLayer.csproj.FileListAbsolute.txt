@@ -1,0 +1,14 @@
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.DataAccessLayer.dll.config
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.DataAccessLayer.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.DataAccessLayer.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\EntityFramework.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.Core.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.EntityFramework.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.Core.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\Zed.EntityFramework.pdb
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\EntityFramework.xml
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\obj\Release\Zed.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\obj\Release\Zed.DataAccessLayer.dll
+D:\Krunal\Test Projects\Zed.CurrencyConverter\Zed.DataAccessLayer\obj\Release\Zed.DataAccessLayer.pdb
